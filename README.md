@@ -8,7 +8,9 @@ App that can be used to search google books. User can type in the title of any b
 https://react-google-books-jsh.herokuapp.com/
 
 ## Screenshot:
-
+<img src="public\reactSearchBook.PNG">
+<img src="public\reactBookSearch.PNG">
+<img src="public\reactSavedBooks.PNG">
 
 ## Technologies
 HTML, CSS, JAVASCRIPT, REACT
