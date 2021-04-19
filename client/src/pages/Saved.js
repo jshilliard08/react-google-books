@@ -52,10 +52,10 @@ class Saved extends Component {
                 <List>
                   {this.state.books.map((book) => (
                     <Book
-                      key={book._id}
+                      key={book.id}
                       title={book.title}
                       subtitle={book.subtitle}
-                      link={book.link}
+                      link={book.infoLink}
                       authors={book.authors.join(", ")}
                       description={book.description}
                       image={book.image}
